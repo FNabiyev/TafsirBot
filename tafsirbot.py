@@ -1,8 +1,6 @@
 import logging
 import requests
-from pprint import pprint
 from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 
 API_TOKEN = '1945582452:AAGvm9x_qM6b7uEiOcwS-JCzUGjyM2Yf_0s'
 
