@@ -1,1 +1,1 @@
-worker: python tafsir_bot.py
+worker: python tafsirbot.py
